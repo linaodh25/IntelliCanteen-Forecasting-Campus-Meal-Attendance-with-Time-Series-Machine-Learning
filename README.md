@@ -43,7 +43,7 @@ Each notebook follows the same structured pipeline:
 
 | Meal | Model | Test R² | Test MAE |
 |---|---|---|---|
-| **Breakfast** | XGBoost (Word2Vec features) | **0.8561** | ~58 visitors |
+| **Breakfast** | XGBoost (Word2Vec features) | **0.8677** | ~58 visitors |
 | **Lunch** | XGBoost (tuned) | **0.8083** | ~74.8 visitors |
 | **Dinner** | XGBoost (tuned) | **0.9075** | ~55.7 visitors |
 
