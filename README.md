@@ -1,4 +1,4 @@
-# 🍽️ IntelliCanteen — Meal Attendance Forecasting
+# IntelliCanteen — Meal Attendance Forecasting
 
 **A Machine Learning project** predicting daily student canteen attendance (Breakfast, Lunch, and Dinner) using time-series feature engineering and gradient-boosted trees.
 
@@ -9,7 +9,7 @@
 - **MEZIGHECHE Malak Yasmine** 
 - **HENNI Mohammed Yassine** 
 
-## 🔗 Live Demo
+## Live Demo
 
 Try the interactive prediction app here: **[LINK HERE]**
 
