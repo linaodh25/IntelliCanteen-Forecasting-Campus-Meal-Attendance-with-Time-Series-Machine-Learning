@@ -51,6 +51,5 @@ All three models use chronological (time-based) train/validation/test splits to 
 - **Modeling:** XGBoost, LightGBM, ExtraTrees, RandomForest, Optuna (hyperparameter tuning)
 - **Data processing:** pandas, NumPy, scikit-learn
 - **Visualization:** Matplotlib, Seaborn
-- **Deployment:** Streamlit
-
+  
 An end-to-end ML system predicting daily breakfast, lunch, and dinner attendance across university restaurants using time-series features, calendar signals (holidays, Ramadan, weekends), and tuned XGBoost models — reaching up to **0.91 R²** on unseen data. Deployed as an interactive Streamlit app.
