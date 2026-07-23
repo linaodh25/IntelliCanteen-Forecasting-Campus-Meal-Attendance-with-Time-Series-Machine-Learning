@@ -9,9 +9,6 @@
 - **MEZIGHECHE Malak Yasmine** 
 - **HENNI Mohammed Yassine** 
 
-## Live Demo
-
-Try the interactive prediction app here: **[LINK HERE]**
 
 ## Overview
 
